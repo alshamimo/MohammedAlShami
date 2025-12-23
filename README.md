@@ -27,11 +27,11 @@ I am a B.Sc. Computer Science student specializing in modern software developmen
 I'm always open to discussing new opportunities and technical challenges!
 
 - 📧 **Email:** alshamim846@gmail.com
-- 💼 **LinkedIn:** [...]
+- 💼 **LinkedIn:** (https://www.linkedin.com/in/mohammed-al-shami-92596331a/)
 
 ---
 
 ### 📈 GitHub Stats
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=alshamimo&show_icons=true&theme=radical)
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=alshamimo&show_icons=true&theme=radical&cache_seconds=1800)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alshamimo&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alshamimo&layout=compact&theme=radical&cache_seconds=1800)
