@@ -31,7 +31,11 @@ I'm always open to discussing new opportunities and technical challenges!
 
 ---
 
-### 📈 GitHub Stats
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=alshamimo&show_icons=true&theme=radical&cache_seconds=1800)
+### 📈 My GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alshamimo&layout=compact&theme=radical&cache_seconds=1800)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alshamimo&show_icons=true&theme=radical" alt="Mohammed's Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshamimo&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
