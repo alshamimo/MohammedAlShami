@@ -29,13 +29,3 @@ I'm always open to discussing new opportunities and technical challenges!
 - 📧 **Email:** alshamim846@gmail.com
 - 💼 **LinkedIn:** (https://www.linkedin.com/in/mohammed-al-shami-92596331a/)
 
----
-
-### 📈 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alshamimo&show_icons=true&theme=radical" alt="Mohammed's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alshamimo&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
