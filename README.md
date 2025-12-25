@@ -27,5 +27,5 @@ I am a B.Sc. Computer Science student specializing in modern software developmen
 I'm always open to discussing new opportunities and technical challenges!
 
 - 📧 **Email:** alshamim846@gmail.com
-- 💼 **LinkedIn:** (www.linkedin.com/in/alshami-dev)
+- 💼 **LinkedIn:** www.linkedin.com/in/alshami-dev
 
