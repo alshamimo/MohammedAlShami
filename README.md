@@ -1,31 +1,48 @@
-# Hi there, I'm Mohammed Al-shami 👋
+# Hi, I'm Mohammed Al-shami 👋
 
-### 🚀 Computer Science Student | Software Engineering & AI Enthusiast
-I am a B.Sc. Computer Science student specializing in modern software development and Artificial Intelligence. I am passionate about building clean, efficient code and applying my technical foundation to real-world projects as a Working Student.
+🎓 CS Student (B.Sc., 4th Semester) · Leibniz University Hannover  
+🤖 Focus: Artificial Intelligence & Machine Learning  
+📍 Hannover, Germany · Open to working student roles
 
 ---
 
-### 🛠 My Tech Stack
+## 🛠 Tech Stack
 
 | Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) |
-| **Databases** | ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
-| **DevOps & Tools** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) |
+|---|---|
+| **Languages** | Java · Python · C · SQL · JavaScript |
+| **ML & AI** | PyTorch · scikit-learn · Neural Networks · Backpropagation |
+| **Frameworks & Tools** | JavaFX · Gradle · JUnit · Git · GitLab CI · Docker |
+| **Concepts** | OOP · MVC · REST APIs · CI/CD · Unit Testing |
+| **IDE & OS** | VS Code · IntelliJ IDEA · Linux (Ubuntu) · Windows |
 
 ---
 
-### 🔍 Focus & Interests
-- 🤖 **Artificial Intelligence:** Designing and training intelligent models.
-- 🏗️ **Software Architecture:** Clean Code, Design Patterns, and OOP.
-- 🐧 **Linux Enthusiast:** Proficient in CLI, shell scripting, and system automation.
-- 🔄 **Containerization:** Managing development environments with Docker.
+## 🚀 Projects
+
+### 🎨 Pictionary AI
+> Java-based neural network for QuickDraw sketch classification (5 classes).
+- Full forward/backpropagation implemented from scratch
+- Minibatch training & early stopping applied
+- Team collaboration via GitLab CI
+
+**Stack:** `Java` `Neural Networks` `Gradle` `GitLab CI`
+🔗 [View Repository](https://github.com/alshamimo/Pictionary-AI)
 
 ---
 
-### 📫 Connect with me
-I'm always open to discussing new opportunities and technical challenges!
+### 💬 Course Feedback System
+> Web application for anonymous course feedback with QR code access.
+- Live feedback with real-time aggregated results
+- Multiple question types: ratings, multiple choice, free text
+- Built collaboratively with GitLab CI
 
-- 📧 **Email:** alshamim846@gmail.com
-- 💼 **LinkedIn:** www.linkedin.com/in/alshami-dev
+**Stack:** `HTML` `CSS` `JavaScript` `GitLab CI`
+🔗 [View Repository](https://github.com/alshamimo/course-eedback-system)
 
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/alshami-dev)
+[![Email](https://img.shields.io/badge/Email-grey?logo=gmail)](mailto:alshamim846@gmail.com)
