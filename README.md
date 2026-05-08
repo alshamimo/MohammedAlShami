@@ -19,7 +19,7 @@
 
 ## 🚀 Projects
 
-### 🖊️ QuickDraw Sketch Classifier — NN vs. CNN
+### 🖊️  Sketch Classifier — NN vs. CNN
 > Real-time sketch classification system comparing a fully connected Neural Network with a Convolutional Neural Network, trained on the Google QuickDraw dataset.
 
 - Designed and trained both NN and CNN models from scratch using **PyTorch**
