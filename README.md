@@ -1,5 +1,5 @@
 # Hi, I'm Mohammed Al-shami 👋
-🎓 CS Student (B.Sc., 4th Semester) · Leibniz University Hannover  
+🎓 CS Student B.Sc · Leibniz University Hannover  
 🤖 Focus: Artificial Intelligence & Machine Learning  
 📍 Hannover, Germany · Open to working student roles
 
